@@ -1,0 +1,9 @@
+new york:88888
+los angeles:996686
+chicago:99897978
+houston:97979
+philadelphia:928325
+phoenix:8235
+san antonio:23235
+san diego:23512345
+dallas:235246
